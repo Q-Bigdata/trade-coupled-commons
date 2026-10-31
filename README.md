@@ -53,3 +53,7 @@ Individual families remain callable, for example `python run2.py E1 E3 --procs 4
 See [VALIDATION.md](VALIDATION.md) for actual independent checks and their limits. The software is MIT licensed. Source data retain their third-party licences and attribution, described in [DATA_SOURCES.md](DATA_SOURCES.md); the MIT licence does not override them. No manuscript, review correspondence, private author records or credentials are included.
 
 Use the repository's versioned release and accompanying Zenodo archival record when citing the software. `CITATION.cff` identifies the authors and software title.
+
+## Fixed archival version
+
+Version **v1.0.0**: [10.5281/zenodo.23838930](https://doi.org/10.5281/zenodo.23838930). The archived release corresponds to commit `85df235f61c8a9a6a285addf7edbf03e92eb4fd2`; all 123 archived files were checked against that fixed Git tree. The archival version is distinct from later documentation-only changes on the default branch.

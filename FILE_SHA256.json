@@ -26,8 +26,8 @@
   },
   {
     "path": "CITATION.cff",
-    "bytes": 502,
-    "sha256": "8d2f17abf12b5beece8aa420bc25722b6114475ac42c2e45ddbe2be65fa33f72"
+    "bytes": 551,
+    "sha256": "45e1a54f61e262d4ef2410f6b3cce83117bd7692804837ba35174730ece86576"
   },
   {
     "path": "DATA_SOURCES.md",
@@ -286,8 +286,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 3593,
-    "sha256": "bfb3474cc461cc909d3945851e9ee560cdcc528afdf5e36fe4974c8a24cabf16"
+    "bytes": 3959,
+    "sha256": "61def6b6932d8b7809d094a3670ac02142f7e110628dbd2a072e2b3b3e180ba4"
   },
   {
     "path": "report2.py",
