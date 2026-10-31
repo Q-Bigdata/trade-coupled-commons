@@ -1,0 +1,8 @@
+{
+  "stationary_root": 0.6905868845745222,
+  "perron_eigenvalue": 0.690586884574495,
+  "absolute_difference": 2.7200464103316335e-14,
+  "one_round_total_pool": 420.0,
+  "uncapped_mass_expected": 420.0,
+  "mass_absolute_difference": 0.0
+}

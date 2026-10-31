@@ -1,0 +1,26 @@
+[
+  {
+    "file": "phi_boot.npy",
+    "same": true
+  },
+  {
+    "file": "phi_emp.npy",
+    "same": true
+  },
+  {
+    "file": "phi_equalcond.npy",
+    "same": true
+  },
+  {
+    "file": "phi_games.npy",
+    "same": true
+  },
+  {
+    "file": "phi_rlcond.npy",
+    "same": true
+  },
+  {
+    "file": "phi_shrunk.npy",
+    "same": true
+  }
+]

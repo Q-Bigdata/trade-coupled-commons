@@ -1,0 +1,42 @@
+[
+  {
+    "crop": "wheat",
+    "max_absolute_differences": {
+      "red_interp_conv_absx": 1.306627204154115e-05,
+      "red_interp_h300_absx": 2.25640878025353e-05,
+      "red_exact_conv_absx": 4.433674936535348e-05,
+      "red_exact_h300_absx": 1.2071407310522766e-05
+    },
+    "all_numeric_match_at_1e-6": false
+  },
+  {
+    "crop": "maize",
+    "max_absolute_differences": {
+      "red_interp_conv_absx": 0.00015278861952185748,
+      "red_interp_h300_absx": 0.00020664395994009037,
+      "red_exact_conv_absx": 5.9985532482416046e-05,
+      "red_exact_h300_absx": 0.00012320964946580318
+    },
+    "all_numeric_match_at_1e-6": false
+  },
+  {
+    "crop": "rice",
+    "max_absolute_differences": {
+      "red_interp_conv_absx": 7.489503109561063e-05,
+      "red_interp_h300_absx": 0.00012460352110916367,
+      "red_exact_conv_absx": 0.00018210151679532403,
+      "red_exact_h300_absx": 0.00012981264091592448
+    },
+    "all_numeric_match_at_1e-6": false
+  },
+  {
+    "crop": "soybean",
+    "max_absolute_differences": {
+      "red_interp_conv_absx": 3.473435886323928e-06,
+      "red_interp_h300_absx": 1.3809138073965499e-05,
+      "red_exact_conv_absx": 5.4426583294305e-05,
+      "red_exact_h300_absx": 3.324284858008397e-05
+    },
+    "all_numeric_match_at_1e-6": false
+  }
+]

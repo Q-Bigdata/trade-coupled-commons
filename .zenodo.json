@@ -1,0 +1,29 @@
+{
+  "title": "Local allocation rules shape cascading collapse in trade-coupled commons: code and supporting data",
+  "upload_type": "software",
+  "description": "Agent-based coupled-commons model on staple-trade networks, supporting input extracts and fixed simulation outputs. Software MIT; third-party data CC BY 4.0 with original attribution and source-specific terms. See DATA_SOURCES.md and VALIDATION.md for provenance and actual verification scope.",
+  "creators": [
+    {
+      "name": "Shi, Tianyu",
+      "affiliation": "School of Economics and Management, Zhejiang Sci-Tech University"
+    },
+    {
+      "name": "Qian, Hanqing",
+      "affiliation": "School of Economics and Management, Zhejiang Sci-Tech University"
+    },
+    {
+      "name": "Tu, Chengyi",
+      "affiliation": "School of Economics and Management, Zhejiang Sci-Tech University"
+    }
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "publication_date": "2026-10-31",
+  "keywords": [
+    "common-pool resources",
+    "trade networks",
+    "allocation institutions",
+    "cascading failure",
+    "reproducibility"
+  ]
+}
